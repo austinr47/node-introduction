@@ -1,0 +1,19 @@
+{
+  "name": "introduction",
+  "version": "1.0.0",
+  "description": "Intro to node for DevMountain",
+  "main": "server/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/austinr47/node-introduction.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/austinr47/node-introduction/issues"
+  },
+  "homepage": "https://github.com/austinr47/node-introduction#readme"
+}
